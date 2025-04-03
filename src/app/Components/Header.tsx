@@ -19,7 +19,7 @@ export default function Header() {
           <Link href="/" className="text-[--text-light] hover:text-[--primary] transition-colors">
             Home
           </Link>
-          <Link href="/quiz" className="text-[--text-light] hover:text-[--primary] transition-colors">
+          <Link href="/quizzes" className="text-[--text-light] hover:text-[--primary] transition-colors">
             Quizzes
           </Link>
           <Link href="/create" className="text-[--text-light] hover:text-[--primary] transition-colors">
